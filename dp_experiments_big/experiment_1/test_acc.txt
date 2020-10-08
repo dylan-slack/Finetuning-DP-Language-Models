@@ -1,0 +1,2 @@
+Epoch 2 | Iter 4000 | Avg Loss On Epoch 7.3383002281188965 | Avg Next token Acc On Epoch 0.06923932586095208
+Epoch 2 | Iter 4500 | Avg Loss On Epoch 7.3506999015808105 | Avg Next token Acc On Epoch 0.06923932586095208
